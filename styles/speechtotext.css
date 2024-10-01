@@ -21,7 +21,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 50%;
+  width: fit-content;
   background-color: #fff;
   padding: 20px 15px 10px;
 }
@@ -33,6 +33,7 @@ h2 {
 
 #result {
   border: 1px solid #000;
+  color: #fff;
   border-radius: 4px;
   height: 300px;
   width: 300px;
